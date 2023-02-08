@@ -1,1 +1,2 @@
 Whitelist Contract Address: 0x1530Be5EB79bF77794a8dce4E175812EDc3b6f93
+Crypto Devs Contract Address: 0x937D050c17C0A5402eA2d25Ff7639FAa9C58de09
