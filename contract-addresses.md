@@ -3,3 +3,5 @@ Crypto Devs Contract Address: 0x937D050c17C0A5402eA2d25Ff7639FAa9C58de09
 Crypto Devs Contract Address v2: 0xA72bC745210FaB01a16f5BB12C3cA917651bAa58
 Crypto Devs Domain: nft-collection-vert-psi.vercel.app
 Crypto Devs Token Contract Address: 0xEd779954740578D7418401F2d4DdC2F90474f15a
+FakeNFTMarketplace deployed to:  0x3A7FB51f2E2E9951B6fb51D2646c57bdCd0A9CFF
+CryptoDevsDAO deployed to:  0x7fBf74daC51B227D6BBAA19A40c2Bafd0111e541
